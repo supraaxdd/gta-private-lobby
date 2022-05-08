@@ -7,7 +7,7 @@ This script will suspend and resume GTA automatically after 10 seconds. This GTA
 The following steps can be used to setup the script and get it running within minutes!
 Please note, this requires a prerequisite download.
 
-1) Download the code in this repository via git (git clone https://github.com/supraaxdd/gta-private-lobby.git) or download the code from the repository page.
+1) Download the code in this repository via git (`git clone https://github.com/supraaxdd/gta-private-lobby.git`) or download the code from the repository page.
 2) Download [pstools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
 3) You only need to extract the `pssuspend.exe` file. **MAKE SURE YOU EXTRACT THIS FILE TO THE PROJECT DIRECTORY! YOU WILL ALSO HAVE TO KEEP THE SCRIPT IN THE SAME FOLDER AS THE `pssuspend.exe` FILE, SHOULD YOU DECIDE TO MOVE IT!**
 4) When you run this script for the first time, you will get a EULA agreement. This is a one time thing, simply accept it and proceed.
