@@ -1,7 +1,7 @@
 # GTA Private Lobby
 
 ## Disclaimer
-This script will suspend and resume GTA automatically after 10 seconds. This GTA bug allows you to create a private lobby which appears as a public server, allowing you to resupply your businesses like this was a private lobby. Please do note that people may start joining after sometime, however, you may run the script again and you should be able to continue in a new "private" lobby.
+This script will suspend and resume GTA automatically after 10 seconds. This GTA bug allows you to create a private lobby which appears as a public server, allowing you to resupply your businesses, and other activities as such that would only be available on a public lobby, like this was a private lobby. Please do note that people may start joining after sometime, however, you may run the script again and you should be able to continue in a new "private" lobby.
 
 ### Setup
 The following steps can be used to setup the script and get it running within minutes!
